@@ -1,2 +1,2 @@
 github "antonio/LoopKit" "antonio-2.2.1"
-github "LoopKit/dexcom-share-client-swift" "antonio-1.0"
+github "antonio/dexcom-share-client-swift" "antonio-1.0"
